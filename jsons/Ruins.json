@@ -1,0 +1,68 @@
+[
+    {
+        "name": "learn virtue",
+        "notification": "We have found educational texts in the supply drop, giving us [cultureAmount] virtue!",
+        "uniques": ["Gain [20]-[30] [Culture]"],
+        "color": "#cf8ff7"
+    },
+    {
+        "name": "gain tech education",
+        "notification": "We have learned the tech of [techName] from the supply drop!",
+        "uniques": ["[1] free random researchable Tech(s) from the [Level 1]"],
+		"color": "#7f7fff"
+    },
+    {
+        "name": "receive droid reinforcements",
+        "notification": "A [Droid] has been sent to join us!",
+        "uniques": ["Free [Droid] found in the ruins"]
+    },
+    {
+        "name": "receive fcolonizer reinforcements",
+        "notification": "A [Colonizer] has been sent to join us!",
+        "uniques": ["Free [Colonizer] found in the ruins"]
+    },
+    {
+        "name": "your exploring unit receives training",
+        "notification": "Our unit has found combat training materials in the supply drop!",
+        "uniques": ["This Unit gains [10] XP"]
+    },
+    {
+        "name": "population reinforcements",
+        "notification": "We have received reinforcements! Population added to [cityName].",
+        "uniques": ["[+1] population in a random city"], // This can't be easily added to cityFilter, as it is non-deterministic
+		"color": "#81c784"
+    },
+    {
+        "name": "a stash of credits",
+        "notification": "We have received a deposit of [goldAmount] Credits from the supply drop!",
+        "uniques": ["Gain [50]-[100] [Gold]"],
+        "color": "#ffeb7f"
+    },
+    {
+        "name": "advanced weaponry for your explorer",
+        "notification": "Our unit finds advanced weaponry hidden in the supply drop!",
+        "uniques": ["This Unit upgrades for free including special upgrades"]
+    },
+    {
+        "name": "reveal nearby Pirate camps",
+        "notification": "We have received intel about nearby pirate camps!",
+        "uniques": ["Reveal up to [All] [Barbarian encampment] within a [10] tile radius"]
+    },
+    {
+        "name": "receive map intel",
+        "notification": "We have received a map from the supply drop!",
+        "uniques": ["From a randomly chosen tile [4] tiles away from the ruins, reveal tiles up to [4] tiles away with [80]% chance"]
+    },
+    {
+        "name": "religious instruction",
+        "notification": "We have received religious instruction in the supply drop, increasing our spiritual connection! (+[faithAmount] Will)",
+        "uniques": ["Gain enough Faith for a Pantheon", "Only available <before founding a Pantheon>"],
+		"color": "#CDDDF4"
+    },
+    {
+        "name": "an ancient prophecy",
+        "notification": "We have received records of an ancient prophecy in the supply drop, greatly increasing our spiritual connection! (+[faithAmount] Will)",
+        "uniques": ["Gain enough Faith for [33]% of a Great Prophet", "Hidden after generating a Great Prophet", "Only available <after founding a Pantheon>"],
+		"color": "#CDDDF4"
+    }
+]

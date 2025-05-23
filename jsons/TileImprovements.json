@@ -1,0 +1,235 @@
+[
+    // General
+	{
+		"name": "Shelter",
+		"terrainsCanBeBuiltOn": ["Land","Forest","Jungle"],
+		"food": 2,
+		"turnsToBuild": 6,
+		"uniques": ["[+1 Food] <after discovering [Processing]>","[+1 Food] from [Plains] tiles","[+1 Food] from [Grassland] tiles"],
+		"shortcutKey": "S"
+	},
+	{
+		"name": "Extractor",
+		"terrainsCanBeBuiltOn": ["Land","Forest","Jungle"],
+		"food": 1,
+		"production": 1,
+		"turnsToBuild": 6,
+		"uniques": ["Can only be built to improve a resource","[+1 Production] <after discovering [Ore]>"],
+		"shortcutKey": "E"
+	},
+	{
+		"name": "Trade Point",
+		"terrainsCanBeBuiltOn": ["Land","Forest","Jungle"],
+		"food": 1,
+		"gold": 2,
+		"turnsToBuild": 6,
+		"uniques": ["Can only be built to improve a resource","[+1 Gold] <after discovering [Specialism]>","[+1 Gold] <after discovering [Galactic Trade]>"],
+		"shortcutKey": "T"
+	},
+	// Research
+	{
+		"name": "Laboratory",
+		"terrainsCanBeBuiltOn": ["Land","Forest","Jungle"],
+		"techRequired": "Research",
+		"science": 1,
+		"turnsToBuild": 6,
+		"uniques": ["[+2 Science] for each adjacent [Mountain]"],
+		"shortcutKey": "L"
+	},
+	{
+		"name": "Command Center",
+		"terrainsCanBeBuiltOn": ["Land","Forest","Jungle"],
+		"techRequired": "Research",
+		"culture": 1,
+		"turnsToBuild": 6,
+		"uniques": ["[+1 Culture, +1 Science] for each adjacent [Hill]"],
+		"shortcutKey": "C"
+	},
+	{
+		"name": "Factory",
+		"terrainsCanBeBuiltOn": ["Land","Forest","Jungle"],
+		"techRequired": "Factories",
+		"production": 1,
+		"turnsToBuild": 6,
+		"uniques": ["Provides [1] [Battery]","Provides [1] [Engine] <after discovering [Spaceports]>","[+1 Production] for each adjacent [Extractor]","[+1 Production] for each adjacent [Power Core]"],
+		"shortcutKey": "Y"
+	},
+	{
+		"name": "Radar Dish",
+		"terrainsCanBeBuiltOn": ["Land","Forest","Jungle"],
+		"techRequired": "Scanning",
+		"culture": 2,
+		"happiness": 1,
+		"science": 1,
+		"turnsToBuild": 6,
+		"uniques": ["Gives a defensive bonus of [25]%"],
+		"shortcutKey": "D"
+	},
+	// Expansion
+	{
+		"name": "Power Core",
+		"terrainsCanBeBuiltOn": ["Land","Forest","Jungle"],
+		"techRequired": "Power Cores",
+		"production": 2,
+		"turnsToBuild": 6,
+		"uniques": ["Provides [3] [Energy]","Provides [1] [Energy] <after discovering [Advanced Energy]>","[+1 Production] <after discovering [Advanced Energy]>"],
+		"shortcutKey": "P"
+	},
+	{
+		"name": "Outpost",
+		"terrainsCanBeBuiltOn": ["Land","Forest","Jungle"],
+		"techRequired": "Outposts",
+		"happiness": 1,
+		"faith": 1,
+		"turnsToBuild": 6,
+		"uniques": ["[+1 Happiness] for each adjacent [Forest]","[+1 Happiness] <after discovering [Temples]>"],
+		"shortcutKey": "O"
+	},
+	{
+		"name": "Shield Generator",
+		"terrainsCanBeBuiltOn": ["Land","Forest","Jungle"],
+		"techRequired": "Energy Shields",
+		"happiness": 2,
+		"turnsToBuild": 6,
+		"uniques": ["Gives a defensive bonus of [100]%","[+1 Happiness] for each adjacent [Jungle]","[+1 Happiness] <after discovering [Superconductors]>"],
+		"shortcutKey": "G"
+	},
+	// Military
+	{
+		"name": "Military Base",
+		"terrainsCanBeBuiltOn": ["Land","Forest","Jungle"],
+		"techRequired": "Military Tech",
+		"production": 1,
+		"turnsToBuild": 6,
+		"uniques": ["Can be built outside your borders","Gives a defensive bonus of [75]%"],
+		"shortcutKey": "B"
+	},
+	{
+		"name": "Mech Complex",
+		"terrainsCanBeBuiltOn": ["Land","Forest","Jungle"],
+		"techRequired": "Mechs",
+		"production": 1,
+		"turnsToBuild": 6,
+		"uniques": ["Gives a defensive bonus of [100]%","Adjacent enemy units ending their turn take [20] damage","[+1 Production] for each adjacent [War Center]"],
+		"shortcutKey": "M"
+	},
+	{
+		"name": "War Center",
+		"terrainsCanBeBuiltOn": ["Land","Forest","Jungle"],
+		"techRequired": "Tacticians",
+		"culture": 1,
+		"turnsToBuild": 6,
+		"uniques": ["Gives a defensive bonus of [100]%","Adjacent enemy units ending their turn take [15] damage","[+1 Culture] for each adjacent [Hill]","[+1 Culture] for each adjacent [Mech Complex]"],
+		"shortcutKey": "W"
+	},
+	{
+		"name": "Spaceport",
+		"terrainsCanBeBuiltOn": ["Land","Forest","Jungle"],
+		"techRequired": "Spaceports",
+		"production": 1,
+		"happiness": 1,
+		"turnsToBuild": 6,
+		"uniques": ["[+1 Production] for each adjacent [Coast]","[+1 Production, +1 Happiness] for each adjacent [Spaceport]"],
+		"shortcutKey": "A"
+	},
+	// Force
+	{
+		"name": "Force Temple",
+		"terrainsCanBeBuiltOn": ["Land","Forest","Jungle"],
+		"faith": 2,
+		"turnsToBuild": 20,
+		"uniques": ["Can only be built to improve a resource","[+1 Faith] for each adjacent [Forest]","[+1 Faith] for each adjacent [Jungle]","[+2 Faith] <after discovering [Temples]>"],
+		"shortcutKey": "F"
+	},
+	// Transportation
+	{
+		"name": "Road",
+		"terrainsCanBeBuiltOn": ["Land"],
+		"turnsToBuild": 4,
+		"techRequired": "Expansion",
+		"uniques": ["Can be built outside your borders"],
+		"shortcutKey": "R"
+	},
+	{
+		"name": "Railroad",
+		"terrainsCanBeBuiltOn": ["Land"],
+		"turnsToBuild": 4,
+		"techRequired": "Energy Roads",
+		"uniques": ["Can be built outside your borders"],
+		"shortcutKey": "R"
+	},
+	//Unique
+	{
+		"name": "Remove Road",
+		"turnsToBuild": 2,
+		"uniques": ["Can be built outside your borders"],
+	},
+	{
+		"name": "Remove Railroad",
+		"turnsToBuild": 2,
+		"uniques": ["Can be built outside your borders"]
+	},
+	{
+		"name": "Cancel improvement order",
+		"uniques": ["Can be built outside your borders"],
+		"shortcutKey": "."
+	},
+	{
+		"name": "Remove Forest",
+		"turnsToBuild": 4,
+		"uniques": ["Can be built outside your borders"],
+		"shortcutKey": "X"
+	},
+	{
+		"name": "Remove Jungle",
+		"turnsToBuild": 4,
+		"uniques": ["Can be built outside your borders"],
+		"shortcutKey": "X"
+	},
+	{
+		"name": "Remove Fallout",
+		"turnsToBuild": 2,
+		"uniques": ["Can be built outside your borders"],
+		"shortcutKey": "X"
+	},
+	{
+		"name": "Remove Swamp",
+		"turnsToBuild": 4,
+		"uniques": ["Can be built outside your borders"],
+		"shortcutKey": "X"
+	},
+	{
+        "name": "Repair",
+        "terrainsCanBeBuiltOn": ["Land"],
+        "turnsToBuild": 2,
+        "shortcutKey": "E",
+        "uniques": ["Unbuildable"],
+        "civilopediaText": [{"text":"Repairs a pillaged Improvement or Route"}]
+    },
+
+	{ 
+		"name": "Supply drop", 
+		"terrainsCanBeBuiltOn": ["Land"],
+		"uniques": ["Unpillagable","Unbuildable","Provides a random bonus when entered"]
+	},
+	{ 
+		"name": "City ruins", 
+		"terrainsCanBeBuiltOn": ["Land"],
+		"uniques": ["Unpillagable","Unbuildable","Will be replaced by automated workers"],
+        "civilopediaText": [{"text":"A bleak reminder of the destruction wreaked by War"}]
+	},
+	{ 
+		"name": "City center", 
+		"terrainsCanBeBuiltOn": ["Land"],
+		"uniques": ["Unpillagable","Irremovable","[+1 Food] for each adjacent [Improvement]","Ensures a minimum tile yield of [+2 Food, +1 Production]","Unbuildable"],
+        "civilopediaText": [
+			{"text":"Marks the center of a city"}]
+	},
+	{ 
+		"name": "Barbarian encampment", 
+		"terrainsCanBeBuiltOn": ["Land"],
+		"uniques": ["Unpillagable","Unbuildable"],
+        "civilopediaText": [{"text":"Home to ruthless pirates, will spawn a hostile unit from time to time"}]
+	}
+	// Wonders
+]

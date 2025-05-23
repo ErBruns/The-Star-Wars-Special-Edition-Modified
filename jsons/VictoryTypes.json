@@ -1,0 +1,42 @@
+[
+    {
+        "name": "Scientific",
+        "victoryScreenHeader": "Complete the superweapon\nto win!",
+        "milestones": [
+            "Build [Superweapon Blueprints]", "Add all [superweapon parts] in capital"
+        ],
+        "requiredSpaceshipParts": [
+            "Thermal Exhaust Port","Superlaser","Main Reactor"
+        ],
+        "victoryString": "You have achieved victory through mastery of Science! With your advanced technology, you have assembled a superweapon with enough firepower to utterly destroy your enemies! Fear of this weapon will keep the system in line - unless, of course, your enemies should discover a weakness in your weapon...",
+        "defeatString": "You have been defeated. Your civilization is no much for your enemies' firepower. You have no choice but to surrender. But your people do not despair, for they know that one day you shall find a way to destroy the superweapon and restore freedom to this planet!"
+    },
+    {
+        "name": "Cultural",
+        "victoryScreenHeader": "Complete 4 policy branches and\nbuild the Monument to win!",
+        "milestones": ["Complete [4] Policy branches", "Build [Monument]"],
+        "victoryString": "You have achieved victory through the awesome power of your Culture. Your civilization's greatness - the magnificence of its monuments and the power of its artists - have astounded the world! Poets will honor you as long as beauty brings gladness to a weary heart.",
+        "defeatString": "You have been defeated. Your civilization has been overwhelmed by its many foes. But your people do not despair, for they know that one day you shall return - and lead them forward to victory!"
+    },
+    {
+        "name": "Domination",
+        "victoryScreenHeader": "Destroy all enemies\nto win!",
+        "milestones": ["Destroy all players"],
+        "victoryString": "The world has been convulsed by war. Many great and powerful civilizations have fallen, but you have survived - and emerged victorious! The world will long remember your glorious triumph!",
+        "defeatString": "You have been defeated. Your civilization has been overwhelmed by its many foes. But your people do not despair, for they know that one day you shall return - and lead them forward to victory!"
+    },
+    {
+        "name": "Diplomatic",
+        "victoryScreenHeader": "Build the Planetary Senate and be voted\nworld leader to win!",
+        "milestones": ["Anyone should build [Planetary Senate]", "Win diplomatic vote"],
+        "victoryString": "You have triumphed over your foes through the art of diplomacy! Your cunning and wisdom have earned you great friends - and divided and sown confusion among your enemies! Forever will you be remembered as the leader who brought peace to this weary world!",
+        "defeatString": "You have been defeated. Your civilization has been overwhelmed by its many foes. But your people do not despair, for they know that one day you shall return - and lead them forward to victory!"
+    },
+    {
+        "name": "Time",
+        "hiddenInVictoryScreen": true,
+        "milestones": ["Have highest score after max turns"],
+        "victoryString": "The world has been convulsed by war. Many great and powerful civilizations have fallen, but you have survived - and emerged victorious! The world will long remember your glorious triumph!",
+        "defeatString": "You have been defeated. Your civilization has been overwhelmed by its many foes. But your people do not despair, for they know that one day you shall return - and lead them forward to victory!"
+    }
+]

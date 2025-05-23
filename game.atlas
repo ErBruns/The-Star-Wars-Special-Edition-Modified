@@ -1,0 +1,4388 @@
+
+game.png
+size: 2048, 2048
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
+CityStateIcons/Attuned
+  rotate: false
+  xy: 320, 1320
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+CityStateIcons/Economic
+  rotate: false
+  xy: 428, 1369
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+CityStateIcons/Industrial
+  rotate: false
+  xy: 220, 456
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+CityStateIcons/Logistical
+  rotate: false
+  xy: 1492, 1728
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+CityStateIcons/Militaristic
+  rotate: false
+  xy: 1600, 1620
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+CityStateIcons/Scientific
+  rotate: false
+  xy: 436, 75
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+CityStateIcons/Virtuous
+  rotate: false
+  xy: 1508, 1188
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ImprovementIcons/Barbarian encampment
+  rotate: false
+  xy: 636, 1548
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ImprovementIcons/City center
+  rotate: false
+  xy: 1728, 1944
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ImprovementIcons/City ruins
+  rotate: false
+  xy: 1728, 1944
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ImprovementIcons/Command Center
+  rotate: false
+  xy: 736, 1728
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ImprovementIcons/Extractor
+  rotate: false
+  xy: 1384, 1728
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ImprovementIcons/Factory
+  rotate: false
+  xy: 1384, 1620
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ImprovementIcons/Force Temple
+  rotate: false
+  xy: 112, 932
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ImprovementIcons/Laboratory
+  rotate: false
+  xy: 1492, 1836
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ImprovementIcons/Mech Complex
+  rotate: false
+  xy: 1600, 1728
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ImprovementIcons/Military Base
+  rotate: false
+  xy: 1816, 1836
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ImprovementIcons/Outpost
+  rotate: false
+  xy: 852, 1461
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ImprovementIcons/Power Core
+  rotate: false
+  xy: 328, 1045
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ImprovementIcons/Radar Dish
+  rotate: false
+  xy: 328, 721
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ImprovementIcons/Railroad
+  rotate: false
+  xy: 436, 829
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ImprovementIcons/Remove Swamp
+  rotate: false
+  xy: 328, 398
+  size: 100, 99
+  orig: 100, 99
+  offset: 0, 0
+  index: -1
+ImprovementIcons/Road
+  rotate: false
+  xy: 436, 291
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ImprovementIcons/Shelter
+  rotate: false
+  xy: 1068, 1512
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ImprovementIcons/Shield Generator
+  rotate: false
+  xy: 1176, 1512
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ImprovementIcons/Spaceport
+  rotate: false
+  xy: 1608, 1512
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ImprovementIcons/Supply drop
+  rotate: false
+  xy: 1076, 1404
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ImprovementIcons/Trade Point
+  rotate: false
+  xy: 1616, 1404
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ImprovementIcons/War Center
+  rotate: false
+  xy: 1616, 1188
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/Barbarians
+  rotate: false
+  xy: 756, 1944
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/CityState
+  rotate: false
+  xy: 1836, 1944
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/First Order
+  rotate: false
+  xy: 536, 1153
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/Galactic Empire
+  rotate: false
+  xy: 112, 608
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/Galactic Republic
+  rotate: false
+  xy: 112, 500
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/Mandalorians
+  rotate: false
+  xy: 1600, 1836
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/Rebel Alliance
+  rotate: false
+  xy: 436, 613
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/Resistance
+  rotate: false
+  xy: 328, 182
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/Separatists
+  rotate: false
+  xy: 960, 1512
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/Sith Eternal
+  rotate: false
+  xy: 544, 1045
+  size: 84, 100
+  orig: 84, 100
+  offset: 0, 0
+  index: -1
+NationIcons/Smugglers
+  rotate: false
+  xy: 1392, 1512
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/The Jedi Order
+  rotate: false
+  xy: 1724, 1296
+  size: 99, 100
+  orig: 99, 100
+  offset: 0, 0
+  index: -1
+OtherIcons/ConvertScience
+  rotate: false
+  xy: 4, 1636
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+StatIcons/Science
+  rotate: false
+  xy: 4, 1636
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+OtherIcons/WLTK 1
+  rotate: false
+  xy: 1616, 1296
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+OtherIcons/WLTK 2
+  rotate: false
+  xy: 1616, 1296
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+OtherIcons/WLTK LR
+  rotate: false
+  xy: 1724, 1404
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ReligionIcons/The Beyond
+  rotate: false
+  xy: 1184, 1404
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ReligionIcons/The Current
+  rotate: false
+  xy: 1076, 1188
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ReligionIcons/The Dark
+  rotate: false
+  xy: 1184, 1296
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ReligionIcons/The Light
+  rotate: false
+  xy: 1184, 1188
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ReligionIcons/The Mist
+  rotate: false
+  xy: 1292, 1296
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ReligionIcons/The Presence
+  rotate: false
+  xy: 1400, 1404
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ReligionIcons/The Sight
+  rotate: false
+  xy: 1292, 1188
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ReligionIcons/The Tide
+  rotate: false
+  xy: 1400, 1296
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ReligionIcons/The Way
+  rotate: false
+  xy: 1508, 1404
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ReligionIcons/The Wind
+  rotate: false
+  xy: 1400, 1188
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ResourceIcons/Artifact
+  rotate: false
+  xy: 4, 176
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ResourceIcons/Behot
+  rotate: false
+  xy: 4, 176
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ResourceIcons/Beskar
+  rotate: false
+  xy: 4, 176
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ResourceIcons/Ceramic
+  rotate: false
+  xy: 4, 176
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ResourceIcons/Cryogen
+  rotate: false
+  xy: 4, 176
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ResourceIcons/Databanks
+  rotate: false
+  xy: 4, 176
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ResourceIcons/Duraplex
+  rotate: false
+  xy: 4, 176
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ResourceIcons/Durasteel
+  rotate: false
+  xy: 4, 176
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ResourceIcons/Flexmetal
+  rotate: false
+  xy: 4, 176
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ResourceIcons/Guilea
+  rotate: false
+  xy: 4, 176
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ResourceIcons/Ichor
+  rotate: false
+  xy: 4, 176
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ResourceIcons/Polarizers
+  rotate: false
+  xy: 4, 176
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ResourceIcons/Spice
+  rotate: false
+  xy: 4, 176
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ResourceIcons/Sulfur
+  rotate: false
+  xy: 4, 176
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ResourceIcons/Synthetics
+  rotate: false
+  xy: 4, 176
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ResourceIcons/Synthplast
+  rotate: false
+  xy: 4, 176
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ResourceIcons/Tibanna
+  rotate: false
+  xy: 4, 176
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ResourceIcons/Transglass
+  rotate: false
+  xy: 4, 176
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ResourceIcons/Xabar
+  rotate: false
+  xy: 4, 176
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ResourceIcons/Bantha
+  rotate: false
+  xy: 528, 1528
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ResourceIcons/Dewback
+  rotate: false
+  xy: 528, 1528
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ResourceIcons/Fruits
+  rotate: false
+  xy: 528, 1528
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ResourceIcons/Graphite
+  rotate: false
+  xy: 528, 1528
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ResourceIcons/Minerals
+  rotate: false
+  xy: 528, 1528
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ResourceIcons/Mynock
+  rotate: false
+  xy: 528, 1528
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ResourceIcons/Nerf
+  rotate: false
+  xy: 528, 1528
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ResourceIcons/Permacrete
+  rotate: false
+  xy: 528, 1528
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ResourceIcons/Plastics
+  rotate: false
+  xy: 528, 1528
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ResourceIcons/Battery
+  rotate: false
+  xy: 864, 1944
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ResourceIcons/Carbon
+  rotate: false
+  xy: 1512, 1946
+  size: 100, 98
+  orig: 100, 98
+  offset: 0, 0
+  index: -1
+ResourceIcons/Crystals
+  rotate: false
+  xy: 1168, 1836
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ResourceIcons/Energy
+  rotate: false
+  xy: 428, 1261
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ResourceIcons/Engine
+  rotate: false
+  xy: 952, 1677
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ResourceIcons/Holocron
+  rotate: false
+  xy: 220, 672
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ResourceIcons/Kyber
+  rotate: false
+  xy: 220, 24
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ResourceIcons/Nova
+  rotate: false
+  xy: 644, 1355
+  size: 100, 98
+  orig: 100, 98
+  offset: 0, 0
+  index: -1
+ResourceIcons/Ore
+  rotate: false
+  xy: 752, 1139
+  size: 100, 98
+  orig: 100, 98
+  offset: 0, 0
+  index: -1
+ResourceIcons/Reactor
+  rotate: false
+  xy: 328, 505
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+StatIcons/Culture
+  rotate: false
+  xy: 212, 1844
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+StatIcons/Faith
+  rotate: false
+  xy: 4, 1428
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+StatIcons/Food
+  rotate: false
+  xy: 212, 1636
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+StatIcons/Happiness
+  rotate: false
+  xy: 420, 1844
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+StatIcons/Malcontent
+  rotate: false
+  xy: 4, 1220
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+StatIcons/Population
+  rotate: false
+  xy: 212, 1428
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+StatIcons/Production
+  rotate: false
+  xy: 420, 1636
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+TechIcons/Advanced Energy
+  rotate: false
+  xy: 4, 824
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+TechIcons/Advanced Military
+  rotate: false
+  xy: 4, 608
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+TechIcons/Battle Training
+  rotate: false
+  xy: 972, 1944
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+TechIcons/Center Base
+  rotate: false
+  xy: 1620, 1944
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+TechIcons/Center Bases
+  rotate: false
+  xy: 1620, 1944
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+TechIcons/Defensive Buildings
+  rotate: false
+  xy: 1384, 1836
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+TechIcons/Energy Roads
+  rotate: false
+  xy: 536, 1369
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+TechIcons/Energy Shields
+  rotate: false
+  xy: 536, 1261
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+TechIcons/Expansion
+  rotate: false
+  xy: 1276, 1728
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+TechIcons/Factories
+  rotate: false
+  xy: 1276, 1620
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+TechIcons/Fortress
+  rotate: false
+  xy: 112, 824
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+TechIcons/Future Tech
+  rotate: false
+  xy: 112, 716
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+TechIcons/Galactic Trade
+  rotate: false
+  xy: 112, 392
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+TechIcons/Heavy Assault
+  rotate: false
+  xy: 112, 68
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+TechIcons/Heroes
+  rotate: false
+  xy: 220, 780
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+TechIcons/Joint Development
+  rotate: false
+  xy: 220, 132
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+TechIcons/Mechs
+  rotate: false
+  xy: 1708, 1836
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+TechIcons/Military
+  rotate: false
+  xy: 1708, 1728
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+TechIcons/Military Tech
+  rotate: false
+  xy: 1708, 1728
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+TechIcons/Military Fleet
+  rotate: false
+  xy: 1708, 1620
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+TechIcons/Mounted Trooper
+  rotate: false
+  xy: 1816, 1620
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+TechIcons/Mounted Troopers
+  rotate: false
+  xy: 1816, 1620
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+TechIcons/Nova
+  rotate: false
+  xy: 1924, 1622
+  size: 100, 98
+  orig: 100, 98
+  offset: 0, 0
+  index: -1
+TechIcons/Optimization
+  rotate: false
+  xy: 644, 1247
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+TechIcons/Orbital Strikes
+  rotate: false
+  xy: 752, 1245
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+TechIcons/Ore
+  rotate: false
+  xy: 644, 1141
+  size: 100, 98
+  orig: 100, 98
+  offset: 0, 0
+  index: -1
+TechIcons/Organization
+  rotate: false
+  xy: 852, 1569
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+TechIcons/Outposts
+  rotate: false
+  xy: 860, 1353
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+TechIcons/Planned Development
+  rotate: false
+  xy: 860, 1137
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+TechIcons/Power Cores
+  rotate: false
+  xy: 436, 1045
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+TechIcons/Processing
+  rotate: false
+  xy: 328, 829
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+TechIcons/Ranged Trooper
+  rotate: false
+  xy: 328, 613
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+TechIcons/Ranged Troopers
+  rotate: false
+  xy: 328, 613
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+TechIcons/Repeaters
+  rotate: false
+  xy: 328, 290
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+TechIcons/Research
+  rotate: false
+  xy: 436, 399
+  size: 100, 98
+  orig: 100, 98
+  offset: 0, 0
+  index: -1
+TechIcons/Roads
+  rotate: false
+  xy: 328, 74
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+TechIcons/Scanning
+  rotate: false
+  xy: 436, 183
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+TechIcons/Spaceports
+  rotate: false
+  xy: 1716, 1512
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+TechIcons/Specialism
+  rotate: false
+  xy: 1824, 1512
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+TechIcons/Studies
+  rotate: false
+  xy: 1932, 1514
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+TechIcons/Superconductors
+  rotate: false
+  xy: 968, 1404
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+TechIcons/Supplies
+  rotate: false
+  xy: 968, 1296
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+TechIcons/Tacticians
+  rotate: false
+  xy: 968, 1188
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+TechIcons/Temples
+  rotate: false
+  xy: 1076, 1296
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+TechIcons/The Force
+  rotate: false
+  xy: 1292, 1404
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+TechIcons/Trade
+  rotate: false
+  xy: 1508, 1296
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+TileIcons/Buy
+  rotate: false
+  xy: 4, 1844
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+OtherIcons/ConvertGold
+  rotate: false
+  xy: 4, 1844
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+StatIcons/Gold
+  rotate: false
+  xy: 4, 1844
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Borders/ConcaveConvexInner
+  rotate: false
+  xy: 4, 17
+  size: 100, 43
+  orig: 100, 43
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Borders/ConcaveConvexOuter
+  rotate: false
+  xy: 420, 1477
+  size: 100, 43
+  orig: 100, 43
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Borders/ConcaveInner
+  rotate: false
+  xy: 736, 1677
+  size: 100, 43
+  orig: 100, 43
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Borders/ConcaveOuter
+  rotate: false
+  xy: 844, 1785
+  size: 100, 43
+  orig: 100, 43
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Borders/ConvexConcaveInner
+  rotate: false
+  xy: 952, 1893
+  size: 100, 43
+  orig: 100, 43
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Borders/ConvexConcaveOuter
+  rotate: false
+  xy: 528, 1477
+  size: 100, 43
+  orig: 100, 43
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Borders/ConvexInner
+  rotate: false
+  xy: 636, 1497
+  size: 100, 43
+  orig: 100, 43
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Borders/ConvexOuter
+  rotate: false
+  xy: 844, 1734
+  size: 100, 43
+  orig: 100, 43
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/CrosshatchHexagon
+  rotate: false
+  xy: 1120, 852
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Hexagon
+  rotate: false
+  xy: 824, 51
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/HexagonGrid
+  rotate: false
+  xy: 864, 51
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Railroad
+  rotate: false
+  xy: 628, 1980
+  size: 120, 64
+  orig: 120, 64
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Road
+  rotate: false
+  xy: 4, 1148
+  size: 120, 64
+  orig: 120, 64
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Barbarian encampment
+  rotate: false
+  xy: 644, 1461
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Beskar
+  rotate: false
+  xy: 684, 1461
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Carbon
+  rotate: false
+  xy: 900, 1698
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Carbon+Hill
+  rotate: false
+  xy: 384, 1176
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Cave of Evil
+  rotate: false
+  xy: 1016, 1641
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/City center
+  rotate: false
+  xy: 664, 55
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/City center-Rebel Alliance
+  rotate: false
+  xy: 664, 55
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Coast
+  rotate: false
+  xy: 1008, 752
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Command Center
+  rotate: false
+  xy: 1064, 802
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Desert
+  rotate: false
+  xy: 1176, 902
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Extractor
+  rotate: false
+  xy: 1008, 716
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Extractor+Battery
+  rotate: false
+  xy: 1328, 1002
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Extractor+Carbon
+  rotate: false
+  xy: 1368, 1002
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Extractor+Engine
+  rotate: false
+  xy: 1408, 1002
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Extractor+Nova
+  rotate: false
+  xy: 1448, 1002
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Extractor+Ore
+  rotate: false
+  xy: 1488, 1002
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Factory
+  rotate: false
+  xy: 1528, 1002
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Fallout
+  rotate: false
+  xy: 1568, 1002
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Fissure
+  rotate: false
+  xy: 1608, 1002
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Flood plains
+  rotate: false
+  xy: 1648, 1002
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Force Temple
+  rotate: false
+  xy: 1008, 680
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Forest
+  rotate: false
+  xy: 704, 53
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Grassland
+  rotate: false
+  xy: 744, 53
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Great Pit of Carkoon
+  rotate: false
+  xy: 784, 53
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Hill
+  rotate: false
+  xy: 904, 51
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Hill+Forest
+  rotate: false
+  xy: 944, 51
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Hill+Jungle
+  rotate: false
+  xy: 992, 644
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Ice
+  rotate: false
+  xy: 992, 608
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Jungle
+  rotate: false
+  xy: 992, 572
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Laboratory
+  rotate: false
+  xy: 992, 536
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Lakes
+  rotate: false
+  xy: 992, 500
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Mech Complex
+  rotate: false
+  xy: 992, 464
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Megalith
+  rotate: false
+  xy: 992, 428
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Military Base
+  rotate: false
+  xy: 992, 392
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Mountain
+  rotate: false
+  xy: 992, 356
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Nova
+  rotate: false
+  xy: 992, 320
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Nova+Hill
+  rotate: false
+  xy: 992, 284
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Oasis
+  rotate: false
+  xy: 992, 248
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Ocean
+  rotate: false
+  xy: 992, 212
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Ore
+  rotate: false
+  xy: 992, 176
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Ore+Hill
+  rotate: false
+  xy: 992, 140
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Outpost
+  rotate: false
+  xy: 992, 104
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Plains
+  rotate: false
+  xy: 992, 68
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Power Core
+  rotate: false
+  xy: 608, 5
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Radar Dish
+  rotate: false
+  xy: 664, 19
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/River-Bottom
+  rotate: false
+  xy: 704, 17
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/River-BottomLeft
+  rotate: false
+  xy: 744, 17
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/River-BottomRight
+  rotate: false
+  xy: 784, 17
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Shelter
+  rotate: false
+  xy: 824, 15
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Shelter+Bonus
+  rotate: false
+  xy: 864, 15
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Shield Generator
+  rotate: false
+  xy: 904, 15
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Snow
+  rotate: false
+  xy: 944, 15
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Spaceport
+  rotate: false
+  xy: 984, 32
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Supply drop
+  rotate: false
+  xy: 1796, 1210
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Supply drop - Copy
+  rotate: false
+  xy: 1796, 1210
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Supply drop+Hill
+  rotate: false
+  xy: 1796, 1210
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Supply drop2
+  rotate: false
+  xy: 1796, 1210
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Supply drop+Desert
+  rotate: false
+  xy: 1904, 1426
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Supply drop+Grassland
+  rotate: false
+  xy: 1064, 766
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Supply drop+Tundra
+  rotate: false
+  xy: 1048, 730
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Swamp
+  rotate: false
+  xy: 1048, 694
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Trade Point
+  rotate: false
+  xy: 1120, 816
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Trade Point+Luxury
+  rotate: false
+  xy: 1104, 780
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Tundra
+  rotate: false
+  xy: 1176, 866
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Tundra+Forest
+  rotate: false
+  xy: 1160, 830
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Tundra+Hill+Forest
+  rotate: false
+  xy: 1232, 916
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/War Center
+  rotate: false
+  xy: 1216, 880
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/AAT
+  rotate: false
+  xy: 844, 1684
+  size: 48, 42
+  orig: 48, 42
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/ARC-170
+  rotate: false
+  xy: 328, 1162
+  size: 48, 42
+  orig: 48, 42
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/AT-AT
+  rotate: false
+  xy: 328, 24
+  size: 48, 42
+  orig: 48, 42
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/AT-M6
+  rotate: false
+  xy: 960, 1627
+  size: 48, 42
+  orig: 48, 42
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/AT-ST
+  rotate: false
+  xy: 968, 1138
+  size: 48, 42
+  orig: 48, 42
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/AT-TE
+  rotate: false
+  xy: 544, 675
+  size: 48, 42
+  orig: 48, 42
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Advanced Anti-Air
+  rotate: false
+  xy: 1024, 1138
+  size: 48, 42
+  orig: 48, 42
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Advanced Bomber
+  rotate: false
+  xy: 544, 625
+  size: 48, 42
+  orig: 48, 42
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Advanced Destroyer
+  rotate: false
+  xy: 1080, 1138
+  size: 48, 42
+  orig: 48, 42
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Advanced Fighter
+  rotate: false
+  xy: 544, 575
+  size: 48, 42
+  orig: 48, 42
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Advanced Interceptor
+  rotate: false
+  xy: 1136, 1138
+  size: 48, 42
+  orig: 48, 42
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Advanced Mech
+  rotate: false
+  xy: 544, 525
+  size: 48, 42
+  orig: 48, 42
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Advanced Mounted
+  rotate: false
+  xy: 1192, 1138
+  size: 48, 42
+  orig: 48, 42
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Advanced Mounted-FO
+  rotate: false
+  xy: 544, 475
+  size: 48, 42
+  orig: 48, 42
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Advanced Mounted-Imperial
+  rotate: false
+  xy: 1248, 1138
+  size: 48, 42
+  orig: 48, 42
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Advanced Mounted-Separatist
+  rotate: false
+  xy: 544, 425
+  size: 48, 42
+  orig: 48, 42
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Advanced Trooper
+  rotate: false
+  xy: 1304, 1138
+  size: 48, 42
+  orig: 48, 42
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Advanced Trooper-FO
+  rotate: false
+  xy: 544, 375
+  size: 48, 42
+  orig: 48, 42
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Advanced Trooper-Imperial
+  rotate: false
+  xy: 1360, 1138
+  size: 48, 42
+  orig: 48, 42
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Advanced Trooper-Mandalorian
+  rotate: false
+  xy: 544, 325
+  size: 48, 42
+  orig: 48, 42
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Advanced Trooper-Rebel
+  rotate: false
+  xy: 1416, 1138
+  size: 48, 42
+  orig: 48, 42
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Advanced Trooper-Republic
+  rotate: false
+  xy: 544, 275
+  size: 48, 42
+  orig: 48, 42
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Advanced Trooper-Resistance
+  rotate: false
+  xy: 1472, 1138
+  size: 48, 42
+  orig: 48, 42
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Advanced Trooper-Separatist
+  rotate: false
+  xy: 544, 225
+  size: 48, 42
+  orig: 48, 42
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Advanced Trooper-Smuggler
+  rotate: false
+  xy: 1528, 1138
+  size: 48, 42
+  orig: 48, 42
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Advanced X-Wing
+  rotate: false
+  xy: 544, 175
+  size: 48, 42
+  orig: 48, 42
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Advanced Y-Wing
+  rotate: false
+  xy: 1584, 1138
+  size: 48, 42
+  orig: 48, 42
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Anakin Skywalker
+  rotate: false
+  xy: 112, 4
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Anti-Air
+  rotate: false
+  xy: 544, 125
+  size: 48, 42
+  orig: 48, 42
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Artillery
+  rotate: false
+  xy: 1640, 1138
+  size: 48, 42
+  orig: 48, 42
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Assault Liner
+  rotate: false
+  xy: 544, 75
+  size: 48, 42
+  orig: 48, 42
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Assault Tank
+  rotate: false
+  xy: 384, 24
+  size: 48, 42
+  orig: 48, 42
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/B2-Super Droid
+  rotate: false
+  xy: 440, 25
+  size: 48, 42
+  orig: 48, 42
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Battle Trooper
+  rotate: false
+  xy: 496, 25
+  size: 48, 42
+  orig: 48, 42
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Battle Trooper-FO
+  rotate: false
+  xy: 1832, 1398
+  size: 48, 42
+  orig: 48, 42
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Battle Trooper-Imperial
+  rotate: false
+  xy: 1831, 1348
+  size: 48, 42
+  orig: 48, 42
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Battle Trooper-Mandalorian
+  rotate: false
+  xy: 1831, 1298
+  size: 48, 42
+  orig: 48, 42
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Battle Trooper-Rebel
+  rotate: false
+  xy: 1724, 1182
+  size: 48, 42
+  orig: 48, 42
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Battle Trooper-Republic
+  rotate: false
+  xy: 636, 1091
+  size: 48, 42
+  orig: 48, 42
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Battle Trooper-Resistance
+  rotate: false
+  xy: 692, 1091
+  size: 48, 42
+  orig: 48, 42
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Battle Trooper-Separatist
+  rotate: false
+  xy: 636, 1041
+  size: 48, 42
+  orig: 48, 42
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Battle Trooper-Smuggler
+  rotate: false
+  xy: 692, 1041
+  size: 48, 42
+  orig: 48, 42
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Boba Fett
+  rotate: false
+  xy: 748, 1089
+  size: 48, 42
+  orig: 48, 42
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Bomber
+  rotate: false
+  xy: 132, 1156
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Bounty Hunter
+  rotate: false
+  xy: 804, 1089
+  size: 48, 42
+  orig: 48, 42
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Bunkerbuster
+  rotate: false
+  xy: 748, 1039
+  size: 48, 42
+  orig: 48, 42
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Clone Recruit
+  rotate: false
+  xy: 804, 1039
+  size: 48, 42
+  orig: 48, 42
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Trooper Recruit-Republic
+  rotate: false
+  xy: 804, 1039
+  size: 48, 42
+  orig: 48, 42
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Clothes
+  rotate: false
+  xy: 184, 36
+  size: 15, 24
+  orig: 15, 24
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Colonizer
+  rotate: false
+  xy: 860, 1087
+  size: 48, 42
+  orig: 48, 42
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Founder
+  rotate: false
+  xy: 860, 1087
+  size: 48, 42
+  orig: 48, 42
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Colonizer-Imperial
+  rotate: false
+  xy: 860, 1037
+  size: 48, 42
+  orig: 48, 42
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Founder-Imperial
+  rotate: false
+  xy: 860, 1037
+  size: 48, 42
+  orig: 48, 42
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Commander
+  rotate: false
+  xy: 916, 1087
+  size: 48, 42
+  orig: 48, 42
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Contrabandist
+  rotate: false
+  xy: 916, 1037
+  size: 48, 42
+  orig: 48, 42
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Council Master
+  rotate: false
+  xy: 972, 1088
+  size: 48, 42
+  orig: 48, 42
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Count Dooku
+  rotate: false
+  xy: 972, 1038
+  size: 48, 42
+  orig: 48, 42
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Cult Squadron
+  rotate: false
+  xy: 1028, 1088
+  size: 48, 42
+  orig: 48, 42
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Cultist
+  rotate: false
+  xy: 1028, 1038
+  size: 48, 42
+  orig: 48, 42
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Darth Vader
+  rotate: false
+  xy: 1084, 1088
+  size: 48, 42
+  orig: 48, 42
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Din Djarin
+  rotate: false
+  xy: 1084, 1038
+  size: 48, 42
+  orig: 48, 42
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Disciple
+  rotate: false
+  xy: 1140, 1088
+  size: 48, 42
+  orig: 48, 42
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Double Agent
+  rotate: false
+  xy: 1140, 1038
+  size: 48, 42
+  orig: 48, 42
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Droid
+  rotate: false
+  xy: 1196, 1088
+  size: 48, 42
+  orig: 48, 42
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Droideka
+  rotate: false
+  xy: 1196, 1038
+  size: 48, 42
+  orig: 48, 42
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/ETA Starfighter
+  rotate: false
+  xy: 1252, 1088
+  size: 48, 42
+  orig: 48, 42
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/EmbarkedUnit-Civilian
+  rotate: false
+  xy: 1232, 952
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/EmbarkedUnit-Military
+  rotate: false
+  xy: 1288, 1002
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Emperor Palpatine
+  rotate: false
+  xy: 1252, 1038
+  size: 48, 42
+  orig: 48, 42
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Exiled Jedi
+  rotate: false
+  xy: 1308, 1088
+  size: 48, 42
+  orig: 48, 42
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/FO Stormtrooper
+  rotate: false
+  xy: 1308, 1038
+  size: 48, 42
+  orig: 48, 42
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/FO Tie Fighter
+  rotate: false
+  xy: 1364, 1088
+  size: 48, 42
+  orig: 48, 42
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Field Supplier
+  rotate: false
+  xy: 1364, 1038
+  size: 48, 42
+  orig: 48, 42
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Fighter
+  rotate: false
+  xy: 1832, 1448
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Firespray Attack Craft
+  rotate: false
+  xy: 1420, 1088
+  size: 48, 42
+  orig: 48, 42
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Flametrooper
+  rotate: false
+  xy: 1420, 1038
+  size: 48, 42
+  orig: 48, 42
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Force Ghost
+  rotate: false
+  xy: 1476, 1088
+  size: 48, 42
+  orig: 48, 42
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Great Prophet
+  rotate: false
+  xy: 1476, 1038
+  size: 48, 42
+  orig: 48, 42
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Great Prophet-FO
+  rotate: false
+  xy: 1532, 1088
+  size: 48, 42
+  orig: 48, 42
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Great Prophet-Imperial
+  rotate: false
+  xy: 1532, 1088
+  size: 48, 42
+  orig: 48, 42
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Great Prophet-Separatist
+  rotate: false
+  xy: 1532, 1088
+  size: 48, 42
+  orig: 48, 42
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Great Prophet-Sith Eternal
+  rotate: false
+  xy: 1532, 1088
+  size: 48, 42
+  orig: 48, 42
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Great Prophet-Mandalorian
+  rotate: false
+  xy: 1532, 1038
+  size: 48, 42
+  orig: 48, 42
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Grenadier
+  rotate: false
+  xy: 1588, 1088
+  size: 48, 42
+  orig: 48, 42
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Shock Trooper-Smuggler
+  rotate: false
+  xy: 1588, 1088
+  size: 48, 42
+  orig: 48, 42
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Guerrilla Recruit
+  rotate: false
+  xy: 1588, 1038
+  size: 48, 42
+  orig: 48, 42
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Ranged Recruit-Resistance
+  rotate: false
+  xy: 1588, 1038
+  size: 48, 42
+  orig: 48, 42
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Heavy Mech
+  rotate: false
+  xy: 1644, 1088
+  size: 48, 42
+  orig: 48, 42
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Heavy Mounted
+  rotate: false
+  xy: 1644, 1038
+  size: 48, 42
+  orig: 48, 42
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Heavy Mounted-FO
+  rotate: false
+  xy: 552, 25
+  size: 48, 42
+  orig: 48, 42
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Heavy Mounted-Imperial
+  rotate: false
+  xy: 616, 991
+  size: 48, 42
+  orig: 48, 42
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Heavy Mounted-Separatist
+  rotate: false
+  xy: 672, 991
+  size: 48, 42
+  orig: 48, 42
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Heavy Mounted-Smuggler
+  rotate: false
+  xy: 616, 941
+  size: 48, 42
+  orig: 48, 42
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Heavy Ranged
+  rotate: false
+  xy: 616, 891
+  size: 48, 42
+  orig: 48, 42
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Heavy Ranged-FO
+  rotate: false
+  xy: 672, 941
+  size: 48, 42
+  orig: 48, 42
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Heavy Ranged-Imperial
+  rotate: false
+  xy: 616, 841
+  size: 48, 42
+  orig: 48, 42
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Heavy Ranged-Mandalorian
+  rotate: false
+  xy: 672, 891
+  size: 48, 42
+  orig: 48, 42
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Heavy Ranged-Rebel
+  rotate: false
+  xy: 616, 791
+  size: 48, 42
+  orig: 48, 42
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Heavy Ranged-Republic
+  rotate: false
+  xy: 672, 841
+  size: 48, 42
+  orig: 48, 42
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Heavy Ranged-Resistance
+  rotate: false
+  xy: 616, 741
+  size: 48, 42
+  orig: 48, 42
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Heavy Ranged-Separatist
+  rotate: false
+  xy: 672, 791
+  size: 48, 42
+  orig: 48, 42
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Heavy Ranged-Smuggler
+  rotate: false
+  xy: 672, 741
+  size: 48, 42
+  orig: 48, 42
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Heavy Trooper
+  rotate: false
+  xy: 728, 989
+  size: 48, 42
+  orig: 48, 42
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Heavy Trooper-FO
+  rotate: false
+  xy: 728, 939
+  size: 48, 42
+  orig: 48, 42
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Heavy Trooper-Imperial
+  rotate: false
+  xy: 784, 989
+  size: 48, 42
+  orig: 48, 42
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Heavy Trooper-Mandalorian
+  rotate: false
+  xy: 728, 889
+  size: 48, 42
+  orig: 48, 42
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Heavy Trooper-Rebel
+  rotate: false
+  xy: 784, 939
+  size: 48, 42
+  orig: 48, 42
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Heavy Trooper-Republic
+  rotate: false
+  xy: 728, 839
+  size: 48, 42
+  orig: 48, 42
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Heavy Trooper-Resistance
+  rotate: false
+  xy: 784, 889
+  size: 48, 42
+  orig: 48, 42
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Heavy Trooper-Separatist
+  rotate: false
+  xy: 728, 789
+  size: 48, 42
+  orig: 48, 42
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Heavy Trooper-Smuggler
+  rotate: false
+  xy: 784, 839
+  size: 48, 42
+  orig: 48, 42
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/IG-Trooper
+  rotate: false
+  xy: 784, 789
+  size: 48, 42
+  orig: 48, 42
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Infiltrator
+  rotate: false
+  xy: 728, 739
+  size: 48, 42
+  orig: 48, 42
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Infiltrator-Separatist
+  rotate: false
+  xy: 784, 739
+  size: 48, 42
+  orig: 48, 42
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Inquisitor
+  rotate: false
+  xy: 840, 987
+  size: 48, 42
+  orig: 48, 42
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Interceptor
+  rotate: false
+  xy: 1724, 1232
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Jedi Commander
+  rotate: false
+  xy: 840, 937
+  size: 48, 42
+  orig: 48, 42
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Jedi Fighter
+  rotate: false
+  xy: 896, 987
+  size: 48, 42
+  orig: 48, 42
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Jet Trooper
+  rotate: false
+  xy: 840, 887
+  size: 48, 42
+  orig: 48, 42
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Knight
+  rotate: false
+  xy: 896, 937
+  size: 48, 42
+  orig: 48, 42
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Knight of Ren
+  rotate: false
+  xy: 840, 837
+  size: 48, 42
+  orig: 48, 42
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Knight-FO
+  rotate: false
+  xy: 896, 887
+  size: 48, 42
+  orig: 48, 42
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Knight-Imperial
+  rotate: false
+  xy: 896, 887
+  size: 48, 42
+  orig: 48, 42
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Knight-Separatist
+  rotate: false
+  xy: 896, 887
+  size: 48, 42
+  orig: 48, 42
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Knight-Smuggler
+  rotate: false
+  xy: 896, 887
+  size: 48, 42
+  orig: 48, 42
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Kylo Ren
+  rotate: false
+  xy: 840, 787
+  size: 48, 42
+  orig: 48, 42
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Luke Skywalker
+  rotate: false
+  xy: 896, 837
+  size: 48, 42
+  orig: 48, 42
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Magnaguard
+  rotate: false
+  xy: 896, 787
+  size: 48, 42
+  orig: 48, 42
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Master
+  rotate: false
+  xy: 840, 737
+  size: 48, 42
+  orig: 48, 42
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Master-FO
+  rotate: false
+  xy: 896, 737
+  size: 48, 42
+  orig: 48, 42
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Master-Imperial
+  rotate: false
+  xy: 896, 737
+  size: 48, 42
+  orig: 48, 42
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Master-Separatist
+  rotate: false
+  xy: 896, 737
+  size: 48, 42
+  orig: 48, 42
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Master-Smuggler
+  rotate: false
+  xy: 896, 737
+  size: 48, 42
+  orig: 48, 42
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Sith Master
+  rotate: false
+  xy: 896, 737
+  size: 48, 42
+  orig: 48, 42
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Mech Destroyer
+  rotate: false
+  xy: 1796, 1246
+  size: 48, 42
+  orig: 48, 42
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Medic
+  rotate: false
+  xy: 1852, 1248
+  size: 48, 42
+  orig: 48, 42
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Mobile Cannon
+  rotate: false
+  xy: 1904, 1462
+  size: 48, 42
+  orig: 48, 42
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Mobile Turret
+  rotate: false
+  xy: 1960, 1464
+  size: 48, 42
+  orig: 48, 42
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Mounted Recruit
+  rotate: false
+  xy: 616, 691
+  size: 48, 42
+  orig: 48, 42
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Mounted Recruit-Imperial
+  rotate: false
+  xy: 672, 691
+  size: 48, 42
+  orig: 48, 42
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Mounted Recruit-Separatist
+  rotate: false
+  xy: 728, 689
+  size: 48, 42
+  orig: 48, 42
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Mounted Recruit-Smuggler
+  rotate: false
+  xy: 784, 689
+  size: 48, 42
+  orig: 48, 42
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Mounted Trooper
+  rotate: false
+  xy: 840, 687
+  size: 48, 42
+  orig: 48, 42
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Mounted Trooper-Imperial
+  rotate: false
+  xy: 896, 687
+  size: 48, 42
+  orig: 48, 42
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Mounted Trooper-Separatist
+  rotate: false
+  xy: 600, 641
+  size: 48, 42
+  orig: 48, 42
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Obi-Wan Kenobi
+  rotate: false
+  xy: 656, 641
+  size: 48, 42
+  orig: 48, 42
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Order Knight
+  rotate: false
+  xy: 600, 591
+  size: 48, 42
+  orig: 48, 42
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Padawan
+  rotate: false
+  xy: 600, 541
+  size: 48, 42
+  orig: 48, 42
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Padawan-FO
+  rotate: false
+  xy: 656, 591
+  size: 48, 42
+  orig: 48, 42
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Padawan-Imperial
+  rotate: false
+  xy: 656, 591
+  size: 48, 42
+  orig: 48, 42
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Padawan-Separatist
+  rotate: false
+  xy: 656, 591
+  size: 48, 42
+  orig: 48, 42
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Padawan-Sith Eternal
+  rotate: false
+  xy: 656, 591
+  size: 48, 42
+  orig: 48, 42
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Patrol Speeder
+  rotate: false
+  xy: 600, 491
+  size: 48, 42
+  orig: 48, 42
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Probe Droid
+  rotate: false
+  xy: 656, 541
+  size: 48, 42
+  orig: 48, 42
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Pummel
+  rotate: false
+  xy: 600, 441
+  size: 48, 42
+  orig: 48, 42
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Ranged Clone
+  rotate: false
+  xy: 656, 491
+  size: 48, 42
+  orig: 48, 42
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Ranged Trooper-Republic
+  rotate: false
+  xy: 656, 491
+  size: 48, 42
+  orig: 48, 42
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Ranged Guard
+  rotate: false
+  xy: 600, 391
+  size: 48, 42
+  orig: 48, 42
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Ranged Recruit
+  rotate: false
+  xy: 656, 441
+  size: 48, 42
+  orig: 48, 42
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Ranged Recruit-FO
+  rotate: false
+  xy: 600, 341
+  size: 48, 42
+  orig: 48, 42
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Ranged Recruit-Imperial
+  rotate: false
+  xy: 656, 391
+  size: 48, 42
+  orig: 48, 42
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Ranged Recruit-Mandalorian
+  rotate: false
+  xy: 600, 291
+  size: 48, 42
+  orig: 48, 42
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Ranged Recruit-Rebel
+  rotate: false
+  xy: 656, 341
+  size: 48, 42
+  orig: 48, 42
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Ranged Recruit-Separatist
+  rotate: false
+  xy: 600, 241
+  size: 48, 42
+  orig: 48, 42
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Ranged Recruit-Smuggler
+  rotate: false
+  xy: 656, 291
+  size: 48, 42
+  orig: 48, 42
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Ranged Trooper
+  rotate: false
+  xy: 600, 191
+  size: 48, 42
+  orig: 48, 42
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Ranged Trooper-FO
+  rotate: false
+  xy: 656, 241
+  size: 48, 42
+  orig: 48, 42
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Ranged Trooper-Imperial
+  rotate: false
+  xy: 600, 141
+  size: 48, 42
+  orig: 48, 42
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Ranged Trooper-Mandalorian
+  rotate: false
+  xy: 656, 191
+  size: 48, 42
+  orig: 48, 42
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Ranged Trooper-Rebel
+  rotate: false
+  xy: 600, 91
+  size: 48, 42
+  orig: 48, 42
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Ranged Trooper-Resistance
+  rotate: false
+  xy: 656, 141
+  size: 48, 42
+  orig: 48, 42
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Ranged Trooper-Separatist
+  rotate: false
+  xy: 656, 91
+  size: 48, 42
+  orig: 48, 42
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Ranged Trooper-Smuggler
+  rotate: false
+  xy: 712, 639
+  size: 48, 42
+  orig: 48, 42
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Rebel Soldier
+  rotate: false
+  xy: 712, 589
+  size: 48, 42
+  orig: 48, 42
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Repeater Trooper
+  rotate: false
+  xy: 768, 639
+  size: 48, 42
+  orig: 48, 42
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Repeater Trooper-FO
+  rotate: false
+  xy: 712, 539
+  size: 48, 42
+  orig: 48, 42
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Repeater Trooper-Imperial
+  rotate: false
+  xy: 768, 589
+  size: 48, 42
+  orig: 48, 42
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Repeater Trooper-Mandalorian
+  rotate: false
+  xy: 712, 489
+  size: 48, 42
+  orig: 48, 42
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Repeater Trooper-Rebel
+  rotate: false
+  xy: 768, 539
+  size: 48, 42
+  orig: 48, 42
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Repeater Trooper-Republic
+  rotate: false
+  xy: 712, 439
+  size: 48, 42
+  orig: 48, 42
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Repeater Trooper-Resistance
+  rotate: false
+  xy: 768, 489
+  size: 48, 42
+  orig: 48, 42
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Repeater Trooper-Separatist
+  rotate: false
+  xy: 712, 389
+  size: 48, 42
+  orig: 48, 42
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Repeater Trooper-Smuggler
+  rotate: false
+  xy: 768, 439
+  size: 48, 42
+  orig: 48, 42
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Republic Commando
+  rotate: false
+  xy: 712, 339
+  size: 48, 42
+  orig: 48, 42
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Rey
+  rotate: false
+  xy: 768, 389
+  size: 48, 42
+  orig: 48, 42
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Rocket Trooper
+  rotate: false
+  xy: 712, 289
+  size: 48, 42
+  orig: 48, 42
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Rocket Trooper-FO
+  rotate: false
+  xy: 768, 339
+  size: 48, 42
+  orig: 48, 42
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Rocket Trooper-Imperial
+  rotate: false
+  xy: 712, 239
+  size: 48, 42
+  orig: 48, 42
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Rocket Trooper-Mandalorian
+  rotate: false
+  xy: 768, 289
+  size: 48, 42
+  orig: 48, 42
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Rocket Trooper-Rebel
+  rotate: false
+  xy: 712, 189
+  size: 48, 42
+  orig: 48, 42
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Rocket Trooper-Republic
+  rotate: false
+  xy: 768, 239
+  size: 48, 42
+  orig: 48, 42
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Rocket Trooper-Resistance
+  rotate: false
+  xy: 712, 139
+  size: 48, 42
+  orig: 48, 42
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Rocket Trooper-Smuggler
+  rotate: false
+  xy: 768, 189
+  size: 48, 42
+  orig: 48, 42
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Scout Recruit
+  rotate: false
+  xy: 768, 139
+  size: 48, 42
+  orig: 48, 42
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Scout Recruit-FO
+  rotate: false
+  xy: 712, 89
+  size: 48, 42
+  orig: 48, 42
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Scout Recruit-Imperial
+  rotate: false
+  xy: 768, 89
+  size: 48, 42
+  orig: 48, 42
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Scout Recruit-Rebel
+  rotate: false
+  xy: 824, 637
+  size: 48, 42
+  orig: 48, 42
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Scout Recruit-Resistance
+  rotate: false
+  xy: 824, 587
+  size: 48, 42
+  orig: 48, 42
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Scout Recruit-Separatist
+  rotate: false
+  xy: 880, 637
+  size: 48, 42
+  orig: 48, 42
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Scout Recruit-Smuggler
+  rotate: false
+  xy: 824, 537
+  size: 48, 42
+  orig: 48, 42
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Scout Trooper
+  rotate: false
+  xy: 880, 587
+  size: 48, 42
+  orig: 48, 42
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Scout Trooper-Rebel
+  rotate: false
+  xy: 880, 587
+  size: 48, 42
+  orig: 48, 42
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Scout Trooper-FO
+  rotate: false
+  xy: 824, 487
+  size: 48, 42
+  orig: 48, 42
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Scout Trooper-Imperial
+  rotate: false
+  xy: 880, 537
+  size: 48, 42
+  orig: 48, 42
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Scout Trooper-Resistance
+  rotate: false
+  xy: 824, 437
+  size: 48, 42
+  orig: 48, 42
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Scout Trooper-Separatist
+  rotate: false
+  xy: 880, 487
+  size: 48, 42
+  orig: 48, 42
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Scout Trooper-Smugglers
+  rotate: false
+  xy: 824, 387
+  size: 48, 42
+  orig: 48, 42
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Security Elite
+  rotate: false
+  xy: 880, 437
+  size: 48, 42
+  orig: 48, 42
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Security Guard
+  rotate: false
+  xy: 824, 337
+  size: 48, 42
+  orig: 48, 42
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Shock Trooper
+  rotate: false
+  xy: 880, 387
+  size: 48, 42
+  orig: 48, 42
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Shock Trooper-FO
+  rotate: false
+  xy: 824, 287
+  size: 48, 42
+  orig: 48, 42
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Shock Trooper-Imperial
+  rotate: false
+  xy: 880, 337
+  size: 48, 42
+  orig: 48, 42
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Shock Trooper-Mandalorian
+  rotate: false
+  xy: 824, 237
+  size: 48, 42
+  orig: 48, 42
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Shock Trooper-Rebel
+  rotate: false
+  xy: 880, 287
+  size: 48, 42
+  orig: 48, 42
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Shock Trooper-Republic
+  rotate: false
+  xy: 824, 187
+  size: 48, 42
+  orig: 48, 42
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Shock Trooper-Resistance
+  rotate: false
+  xy: 880, 237
+  size: 48, 42
+  orig: 48, 42
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Shock Trooper-Separatist
+  rotate: false
+  xy: 824, 137
+  size: 48, 42
+  orig: 48, 42
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Sith Assasin
+  rotate: false
+  xy: 544, 981
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Sith Assassin
+  rotate: false
+  xy: 880, 187
+  size: 48, 42
+  orig: 48, 42
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Sith Seeker
+  rotate: false
+  xy: 880, 137
+  size: 48, 42
+  orig: 48, 42
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Sith Trooper
+  rotate: false
+  xy: 824, 87
+  size: 48, 42
+  orig: 48, 42
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Ski Speeder
+  rotate: false
+  xy: 880, 87
+  size: 48, 42
+  orig: 48, 42
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Slave I
+  rotate: false
+  xy: 544, 917
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Smuggling Droid
+  rotate: false
+  xy: 608, 41
+  size: 48, 42
+  orig: 48, 42
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Snowspeeder
+  rotate: false
+  xy: 952, 987
+  size: 48, 42
+  orig: 48, 42
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Speeder Gang
+  rotate: false
+  xy: 952, 937
+  size: 48, 42
+  orig: 48, 42
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Spider Tank
+  rotate: false
+  xy: 952, 887
+  size: 48, 42
+  orig: 48, 42
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Standard Bomber
+  rotate: false
+  xy: 952, 837
+  size: 48, 42
+  orig: 48, 42
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Standard Fighter
+  rotate: false
+  xy: 952, 787
+  size: 48, 42
+  orig: 48, 42
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Standard Interceptor
+  rotate: false
+  xy: 952, 737
+  size: 48, 42
+  orig: 48, 42
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Star Fleet
+  rotate: false
+  xy: 544, 853
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Stormtrooper
+  rotate: false
+  xy: 952, 687
+  size: 48, 42
+  orig: 48, 42
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Strategic Worker
+  rotate: false
+  xy: 544, 789
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Strategist
+  rotate: false
+  xy: 936, 637
+  size: 48, 42
+  orig: 48, 42
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Strategist-Separatist
+  rotate: false
+  xy: 936, 587
+  size: 48, 42
+  orig: 48, 42
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/TIE Bomber
+  rotate: false
+  xy: 936, 537
+  size: 48, 42
+  orig: 48, 42
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/TIE Fighter
+  rotate: false
+  xy: 936, 487
+  size: 48, 42
+  orig: 48, 42
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Techmaster
+  rotate: false
+  xy: 936, 437
+  size: 48, 42
+  orig: 48, 42
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Temple Guard
+  rotate: false
+  xy: 936, 387
+  size: 48, 42
+  orig: 48, 42
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Trooper
+  rotate: false
+  xy: 936, 337
+  size: 48, 42
+  orig: 48, 42
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Trooper Recruit
+  rotate: false
+  xy: 936, 287
+  size: 48, 42
+  orig: 48, 42
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Trooper Recruit-FO
+  rotate: false
+  xy: 936, 237
+  size: 48, 42
+  orig: 48, 42
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Trooper-FO
+  rotate: false
+  xy: 936, 237
+  size: 48, 42
+  orig: 48, 42
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Trooper Recruit-Imperial
+  rotate: false
+  xy: 936, 187
+  size: 48, 42
+  orig: 48, 42
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Trooper Recruit-Mandalorian
+  rotate: false
+  xy: 936, 137
+  size: 48, 42
+  orig: 48, 42
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Trooper Recruit-Rebel
+  rotate: false
+  xy: 936, 87
+  size: 48, 42
+  orig: 48, 42
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Trooper Recruit-Resistance
+  rotate: false
+  xy: 1008, 988
+  size: 48, 42
+  orig: 48, 42
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Trooper Recruit-Separatist
+  rotate: false
+  xy: 1008, 938
+  size: 48, 42
+  orig: 48, 42
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Trooper Recruit-Smuggler
+  rotate: false
+  xy: 1064, 988
+  size: 48, 42
+  orig: 48, 42
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Trooper-Imperial
+  rotate: false
+  xy: 1008, 888
+  size: 48, 42
+  orig: 48, 42
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Trooper-Mandalorian
+  rotate: false
+  xy: 1064, 938
+  size: 48, 42
+  orig: 48, 42
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Trooper-Rebel
+  rotate: false
+  xy: 1120, 988
+  size: 48, 42
+  orig: 48, 42
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Trooper-Rebel Alliance
+  rotate: false
+  xy: 544, 725
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Trooper-Republic
+  rotate: false
+  xy: 1008, 838
+  size: 48, 42
+  orig: 48, 42
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Trooper-Resistance
+  rotate: false
+  xy: 1064, 888
+  size: 48, 42
+  orig: 48, 42
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Trooper-Separatist
+  rotate: false
+  xy: 1120, 938
+  size: 48, 42
+  orig: 48, 42
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Trooper-Smuggler
+  rotate: false
+  xy: 1176, 988
+  size: 48, 42
+  orig: 48, 42
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Vanguard
+  rotate: false
+  xy: 1008, 788
+  size: 48, 42
+  orig: 48, 42
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Vulture Droid
+  rotate: false
+  xy: 1064, 838
+  size: 48, 42
+  orig: 48, 42
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/X-Wing
+  rotate: false
+  xy: 1120, 888
+  size: 48, 42
+  orig: 48, 42
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Y-Wing
+  rotate: false
+  xy: 1176, 938
+  size: 48, 42
+  orig: 48, 42
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Yoda
+  rotate: false
+  xy: 1232, 988
+  size: 48, 42
+  orig: 48, 42
+  offset: 0, 0
+  index: -1
+UnitActionIcons/AddInCapital
+  rotate: false
+  xy: 4, 1040
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitActionIcons/EnhanceReligion
+  rotate: false
+  xy: 1060, 1728
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitActionIcons/FoundReligion
+  rotate: false
+  xy: 1060, 1728
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitActionIcons/RemoveHeresy
+  rotate: false
+  xy: 436, 505
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/AAT
+  rotate: false
+  xy: 212, 1320
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/AT-ST
+  rotate: false
+  xy: 212, 1320
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Cult Squadron
+  rotate: false
+  xy: 212, 1320
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Heavy Mech
+  rotate: false
+  xy: 212, 1320
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/ARC-170
+  rotate: false
+  xy: 420, 1528
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Advanced Interceptor
+  rotate: false
+  xy: 420, 1528
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Advanced Y-Wing
+  rotate: false
+  xy: 420, 1528
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/ETA Starfighter
+  rotate: false
+  xy: 420, 1528
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/AT-AT
+  rotate: false
+  xy: 628, 1872
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/AT-M6
+  rotate: false
+  xy: 628, 1872
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/AT-TE
+  rotate: false
+  xy: 628, 1872
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Advanced Mech
+  rotate: false
+  xy: 628, 1872
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Spider Tank
+  rotate: false
+  xy: 628, 1872
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Advanced Anti-Air
+  rotate: false
+  xy: 628, 1764
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Mobile Turret
+  rotate: false
+  xy: 628, 1764
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Advanced Bomber
+  rotate: false
+  xy: 4, 932
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Advanced Destroyer
+  rotate: false
+  xy: 628, 1656
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Advanced Fighter
+  rotate: false
+  xy: 4, 716
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Advanced X-Wing
+  rotate: false
+  xy: 4, 716
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Jedi Fighter
+  rotate: false
+  xy: 4, 716
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Advanced Mounted
+  rotate: false
+  xy: 4, 500
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Speeder Gang
+  rotate: false
+  xy: 4, 500
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Advanced Trooper
+  rotate: false
+  xy: 4, 392
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Bounty Hunter
+  rotate: false
+  xy: 4, 392
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Droideka
+  rotate: false
+  xy: 4, 392
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Jet Trooper
+  rotate: false
+  xy: 4, 392
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Republic Commando
+  rotate: false
+  xy: 4, 392
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Security Elite
+  rotate: false
+  xy: 4, 392
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Sith Trooper
+  rotate: false
+  xy: 4, 392
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Anti-Air
+  rotate: false
+  xy: 4, 284
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Artillery
+  rotate: false
+  xy: 4, 68
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Assault Liner
+  rotate: false
+  xy: 4, 68
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Assault Tank
+  rotate: false
+  xy: 212, 1212
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/B2-Super Droid
+  rotate: false
+  xy: 320, 1212
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Rocket Trooper
+  rotate: false
+  xy: 320, 1212
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Battle Trooper
+  rotate: false
+  xy: 1080, 1944
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Vanguard
+  rotate: false
+  xy: 1080, 1944
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Boba Fett
+  rotate: false
+  xy: 1188, 1944
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Din Djarin
+  rotate: false
+  xy: 1188, 1944
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Bomber
+  rotate: false
+  xy: 1296, 1944
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Standard Bomber
+  rotate: false
+  xy: 1296, 1944
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/TIE Bomber
+  rotate: false
+  xy: 1296, 1944
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Bunkerbuster
+  rotate: false
+  xy: 1404, 1944
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Mech Destroyer
+  rotate: false
+  xy: 1404, 1944
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Clone Recruit
+  rotate: false
+  xy: 1944, 1944
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Security Guard
+  rotate: false
+  xy: 1944, 1944
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Stormtrooper
+  rotate: false
+  xy: 1944, 1944
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Trooper Recruit
+  rotate: false
+  xy: 1944, 1944
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Colonizer
+  rotate: false
+  xy: 736, 1836
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Founder
+  rotate: false
+  xy: 736, 1836
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Commander
+  rotate: false
+  xy: 844, 1836
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Contrabandist
+  rotate: false
+  xy: 844, 1836
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Double Agent
+  rotate: false
+  xy: 844, 1836
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Field Supplier
+  rotate: false
+  xy: 844, 1836
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Infiltrator
+  rotate: false
+  xy: 844, 1836
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Medic
+  rotate: false
+  xy: 844, 1836
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Strategist
+  rotate: false
+  xy: 844, 1836
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Techmaster
+  rotate: false
+  xy: 844, 1836
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Council Master
+  rotate: false
+  xy: 952, 1785
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Force Ghost
+  rotate: false
+  xy: 952, 1785
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Magnaguard
+  rotate: false
+  xy: 952, 1785
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Master
+  rotate: false
+  xy: 952, 1785
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Order Knight
+  rotate: false
+  xy: 952, 1785
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Sith Master
+  rotate: false
+  xy: 952, 1785
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Sith Wraith
+  rotate: false
+  xy: 952, 1785
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Temple Guard
+  rotate: false
+  xy: 952, 1785
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Count Dooku
+  rotate: false
+  xy: 1060, 1836
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Darth Vader
+  rotate: false
+  xy: 1060, 1836
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Emperor Palpatine
+  rotate: false
+  xy: 1060, 1836
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Hero
+  rotate: false
+  xy: 1060, 1836
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Kylo Ren
+  rotate: false
+  xy: 1060, 1836
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Luke Skywalker
+  rotate: false
+  xy: 1060, 1836
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Obi-Wan Kenobi
+  rotate: false
+  xy: 1060, 1836
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Rey
+  rotate: false
+  xy: 1060, 1836
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Yoda
+  rotate: false
+  xy: 1060, 1836
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Cultist
+  rotate: false
+  xy: 1276, 1836
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Scout Trooper
+  rotate: false
+  xy: 1276, 1836
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Disciple
+  rotate: false
+  xy: 744, 1569
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Droid
+  rotate: false
+  xy: 744, 1461
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Exiled Jedi
+  rotate: false
+  xy: 1168, 1728
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Inquisitor
+  rotate: false
+  xy: 1168, 1728
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Jedi Commander
+  rotate: false
+  xy: 1168, 1728
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Knight
+  rotate: false
+  xy: 1168, 1728
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Knight of Ren
+  rotate: false
+  xy: 1168, 1728
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Sith Assassin
+  rotate: false
+  xy: 1168, 1728
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Sith Seeker
+  rotate: false
+  xy: 1168, 1728
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/FO Stormtrooper
+  rotate: false
+  xy: 1060, 1620
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Rebel Soldier
+  rotate: false
+  xy: 1060, 1620
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Trooper
+  rotate: false
+  xy: 1060, 1620
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/FO TIE Fighter
+  rotate: false
+  xy: 1168, 1620
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Fighter
+  rotate: false
+  xy: 1168, 1620
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Standard Fighter
+  rotate: false
+  xy: 1168, 1620
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/TIE Fighter
+  rotate: false
+  xy: 1168, 1620
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Vulture Droid
+  rotate: false
+  xy: 1168, 1620
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/X-Wing
+  rotate: false
+  xy: 1168, 1620
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Firespray Attack Craft
+  rotate: false
+  xy: 428, 1153
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Star Fleet
+  rotate: false
+  xy: 428, 1153
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Flametrooper
+  rotate: false
+  xy: 112, 1040
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Grenadier
+  rotate: false
+  xy: 112, 1040
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Shock Trooper
+  rotate: false
+  xy: 112, 1040
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Great Prophet
+  rotate: false
+  xy: 112, 284
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Guerrilla Recruit
+  rotate: false
+  xy: 112, 176
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Ranged Clone
+  rotate: false
+  xy: 112, 176
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Ranged Guard
+  rotate: false
+  xy: 112, 176
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Ranged Recruit
+  rotate: false
+  xy: 112, 176
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Heavy Mounted
+  rotate: false
+  xy: 220, 1104
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Patrol Speeder
+  rotate: false
+  xy: 220, 1104
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Heavy Ranged
+  rotate: false
+  xy: 220, 996
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Heavy Trooper
+  rotate: false
+  xy: 220, 888
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/IG-Trooper
+  rotate: false
+  xy: 220, 564
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Repeater Trooper
+  rotate: false
+  xy: 220, 564
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Interceptor
+  rotate: false
+  xy: 220, 348
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Standard Interceptor
+  rotate: false
+  xy: 220, 348
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Y-Wing
+  rotate: false
+  xy: 220, 348
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Inventor
+  rotate: false
+  xy: 220, 240
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Main Reactor
+  rotate: false
+  xy: 1492, 1620
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Superlaser
+  rotate: false
+  xy: 1492, 1620
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Thermal Exhaust Port
+  rotate: false
+  xy: 1492, 1620
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Mobile Cannon
+  rotate: false
+  xy: 1816, 1728
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Mounted Recruit
+  rotate: false
+  xy: 1924, 1836
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Mounted Trooper
+  rotate: false
+  xy: 1924, 1728
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Orbital Strike
+  rotate: false
+  xy: 752, 1353
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Padawan
+  rotate: false
+  xy: 860, 1245
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Probe Droid
+  rotate: false
+  xy: 328, 937
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Scout Recruit
+  rotate: false
+  xy: 328, 937
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Pummel
+  rotate: false
+  xy: 436, 937
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Ranged Trooper
+  rotate: false
+  xy: 436, 721
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Ski Speeder
+  rotate: false
+  xy: 1284, 1512
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Snowspeeder
+  rotate: false
+  xy: 1284, 1512
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Smuggling Droid
+  rotate: false
+  xy: 1500, 1512
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1

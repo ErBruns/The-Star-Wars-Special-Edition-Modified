@@ -1,0 +1,71 @@
+[
+    {
+        "name": "Civilian",
+        "movementType": "Land",
+		"uniques": ["Infantry"]
+    },
+	{
+        "name": "Recon",
+        "movementType": "Land",
+		"uniques": ["Infantry"]
+    },
+	{
+        "name": "Battler",
+        "movementType": "Land",
+		"uniques": ["Infantry"]
+    },
+	{
+        "name": "Ranged Battler",
+        "movementType": "Land",
+		"uniques": ["Infantry"]
+    },
+	{
+        "name": "Mounted",
+        "movementType": "Land",
+		"uniques": ["Infantry","Can pass through impassable tiles","Ignores terrain cost","No defensive terrain bonus","May travel on Water tiles without embarking","Eliminates combat penalty for attacking across a coast","Eliminates combat penalty for attacking over a river"]
+    },
+	{
+        "name": "Jedi",
+        "movementType": "Land"
+    },
+	{
+        "name": "Siege",
+        "movementType": "Land",
+		"uniques": ["Armor","Ranged attacks may be performed over obstacles"]
+    },
+	{
+        "name": "Tactician",
+        "movementType": "Land",
+		"uniques": ["Infantry"]
+    },
+    {
+        "name": "Mech",
+        "movementType": "Land",
+		"uniques": ["Armor"]
+    },
+	{
+        "name": "Fighter",
+        "movementType": "Air",
+        "uniques": ["Aircraft","[+4] Sight","Can see over obstacles","Can perform Air Sweep"]
+    },
+	{
+        "name": "Bomber",
+        "movementType": "Air",
+        "uniques": ["Aircraft"]
+    },
+	{
+        "name": "Interceptor",
+        "movementType": "Air",
+        "uniques": ["Aircraft","[+4] Sight","Can see over obstacles","Can perform Air Sweep"]
+    },
+	{
+        "name": "Starship",
+        "movementType": "Land",
+        "uniques": ["Special","All tiles cost 1 movement","Can pass through impassable tiles","May travel on Water tiles without embarking","No defensive terrain bonus", "Ignores Zone of Control","Can see over obstacles","May travel on Water tiles without embarking","Eliminates combat penalty for attacking across a coast","Eliminates combat penalty for attacking over a river"]
+    },
+	{
+        "name": "Orbital",
+        "movementType": "Air",
+        "uniques": ["Special","Self-destructs when attacking","Cannot be intercepted"]
+    }
+]
