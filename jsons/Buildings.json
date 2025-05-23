@@ -33,7 +33,7 @@
 		"name": "Official Annexation",
 	    "cost": 20,
 		"uniques": ["Remove extra unhappiness from annexed cities",
-			"Can only be built [in annexed cities]"]
+			"Can only be built <in [annexed] cities>"]
 	},
 	{
 		"name": "Hunt Food",
