@@ -68,7 +68,7 @@
 		"uniqueName": "Imperial March",
 		"uniques": ["[+1 Science] from every [Extractor]",
 		"[+1 Science] from every [Strategic resource]",
-		"+30% Strength when fighting City-State units and cities"],
+		"[+30]% Strength <vs [City-States]>"],
 		"cities": ["Vos Complex","Dismon Complex","Damiron Complex","Alixer Complex","Daln Complex","Llona Complex","Malca Complex","Blackfall Complex","Tex Complex","Gaphol Complex","Thusaad Complex","Ekog Complex"]
 	},
 	{
@@ -129,7 +129,7 @@
 		"uniques": ["[+1 Food] [in all cities]",
 		"[+20]% Strength <for [Infantry] units> <vs [Infantry] units>",
 		"[+40]% Production when constructing [Jedi] units [in all cities]",
-		"Can spend Gold to annex or puppet a City-State that has been your ally for [5] turns."],
+		"Can spend Gold to annex or puppet a City-State that has been your Ally for [5] turns."],
 		"cities": ["Silah District","Alryn District","Malk District","Thadd District","Adley District","Arol District","Ralth District","Malluk District","Rackham District","Prak District","Bentzen District","Kynon District"]
 	},
 	{
@@ -311,7 +311,7 @@
 		"innerColor": [255,184,33],
 		"favoredReligion": "The Way",
 		"uniqueName": "The Path of Mandalore",
-		"uniques": ["Damage is ignored when determining unit Strength",
+		"uniques": ["No damage penalty for wounded units",
 		"[+1 Faith, +1 Culture] from every [Beskar]",
 		"Military Units gifted from City-States start with [+10] XP",
 		"Double quantity of [Ore] produced"],
