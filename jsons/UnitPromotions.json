@@ -148,7 +148,7 @@
 	//General
 	{
 		"name": "Heal Instantly",
-		"uniques": ["Heal this unit by [50] HP", "Doing so will consume this opportunity to choose a Promotion"],
+		"uniques": ["[This Unit] heals [50] HP", "Doing so will consume this opportunity to choose a Promotion"],
 		"unitTypes": ["Recon","Battler","Ranged Battler","Mounted","Tactician","Mech","Siege","Fighter","Bomber","Interceptor","Starship","Jedi"]
 	},
 	//Recon
@@ -189,7 +189,7 @@
 	{
 		"name": "Elite Recon",
 		"prerequisites": ["Undercover","Ambush Squad"],
-		"uniques": ["May withdraw before melee ([50]%)"],
+		"uniques": ["Withdraws before melee combat <with [50]% chance>"],
 		"unitTypes": ["Recon"]
 	},
 	//Battler
@@ -606,7 +606,7 @@
 	},
 	{
 		"name": "Tactical Movement",
-		"uniques": ["Ignores Zone of Control","May withdraw before melee ([75]%)"],
+		"uniques": ["Ignores Zone of Control","Withdraws before melee combat <with [75]% chance>"],
 		"unitTypes": ["Recon","Battler","Ranged Battler","Mounted","Tactician","Mech","Siege","Jedi"]
 	}
 ]
