@@ -106,7 +106,7 @@
 	{
         "name": "Researchers",
         "era": "Level 1",
-        "uniques": ["[-25]% tile improvement construction time","[+1 Production] from every [Extractor]"],
+        "uniques": ["[-25]% construction time for [All] improvements","[+1 Production] from every [Extractor]"],
 		"priorities": {
             "Neutral": 30,
             "Cultural": 10,
