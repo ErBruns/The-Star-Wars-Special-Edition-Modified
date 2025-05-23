@@ -868,7 +868,7 @@
 		"cost": 600,
 		"requiredResource": "Reactor",
 		"requiredTech": "Military Fleet",
-		"uniques": ["Level 4","[+100]% Strength <vs [Orbital Strike] units>","Can carry [2] [Aircraft] units","Can carry [1] [Orbital] units","May withdraw before melee ([75]%)"],
+		"uniques": ["Level 4","[+100]% Strength <vs [Orbital Strike] units>","Can carry [2] [Aircraft] units","Can carry [1] [Orbital] units","Withdraws before melee combat <with [75]% chance>"],
 		"attackSound": "fleethit",
 		"civilopediaText": [
 			{
@@ -2153,7 +2153,7 @@
 	{
 		"name": "Great Prophet",
 		"unitType": "Civilian",
-		"uniques": ["Level 2","May found a religion","May enhance a religion","Can [Spread Religion] [4] times","Removes other religions when spreading religion","Unbuildable","Takes your religion over the one in their birth city","Religious Unit"],
+		"uniques": ["Level 2","May found a religion","May enhance a religion","Can Spread Religion <[4] times> <after which this unit is consumed>","Removes other religions when spreading religion","Unbuildable","Takes your religion over the one in their birth city","Religious Unit"],
 		"movement": 2,
 		"religiousStrength": 1000,
 		"civilopediaText": [
@@ -2180,7 +2180,7 @@
 	{
 	 "name": "Disciple",
 		"unitType": "Civilian",
-		"uniques": ["Level 1","Can [Spread Religion] [1] times", "Can [Remove Foreign religions from your own cities] [1] times", "May enter foreign tiles without open borders, but loses [100] religious strength each turn it ends there", "Can be purchased with [Faith] [in all cities in which the majority religion is a major religion]", "[-1] Sight", "Unbuildable","Religious Unit"],
+		"uniques": ["Level 1","Can Spread Religion <[1] times> <after which this unit is consumed>", "Can remove other religions from cities <in [Friendly] tiles> <once> <after which this unit is consumed>]", "May enter foreign tiles without open borders, but loses [100] religious strength each turn it ends there", "Can be purchased with [Faith] [in all cities in which the majority religion is a major religion]", "[-1] Sight", "Unbuildable","Religious Unit"],
 		"movement": 4,
 		"religiousStrength": 1000,
 		"civilopediaText": [
